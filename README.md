@@ -1,0 +1,2 @@
+# ExerciciosTerceiroSemestre
+ Provas, Trabalhos, Exercícios
